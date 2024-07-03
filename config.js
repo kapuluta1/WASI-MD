@@ -73,10 +73,10 @@ module.exports = {
   VERSION : process.env.VERSION || "V.1.0.0",
   caption : process.env.CAPTION || "𝙵𝙸𝙻𝙴 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙱𝚎𝚕𝚝𝚊𝚑🚩" , // ```『 ²⁴ Beltah-ᴍᴅ 』```", //*『Beltahᴍᴅ』*\n facebook@ Beltah KE"),
  
-  author : process.env.PACK_AUTHER|| "Beltah",
+  author : process.env.PACK_AUTHER|| "𝐑𝐈𝐂𝐇𝐀𝐑𝐃",
   packname: process.env.PACK_NAME || "♥️",
   botname : process.env.BOT_NAME  || "꧁༺𝐁𝐞𝐥𝐭𝐚𝐡-𝐓𝐞𝐜𝐡༻꧂",
-  ownername:process.env.OWNER_NAME|| "𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒🇰🇪",
+  ownername:process.env.OWNER_NAME|| "𝐑𝐈𝐂𝐇𝐀𝐑𝐃(𝐄𝐦𝐞𝐫𝐢𝐭𝐮𝐬)🇹🇿",
 
 
   errorChat : process.env.ERROR_CHAT || "",
